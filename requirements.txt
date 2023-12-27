@@ -1,0 +1,5 @@
+deep-translator
+respect-validation
+flask
+multipledispatch
+flask-restful
